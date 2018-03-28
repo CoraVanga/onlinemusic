@@ -3,36 +3,7 @@
 <head> 
     <title>Zing MP3 | Nghe tải nhạc chất lượng cao trên desktop, mobile và TV</title>
     <meta name="description" content="Dịch vụ nhạc số với hàng triệu bài hát và MV có bản quyền chất lượng cao, giúp bạn nghe nhạc, tải nhạc, upload và đồng bộ kho nhạc của tôi trên nhiều thiết bị." />
-    <meta name="keywords" content="Zing MP3, nhac so, nhac cua toi, nghe nhac, tai nhac, tim nhac, nhac chat luong cao, upload nhac" />
-    <meta name="robots" content="index, follow" />
-    <meta name="author" content="Zing MP3" />
-    <link rel="canonical" href="">
-    <link rel="alternate" media="handheld" href="https://m.mp3.zing.vn">
-    <link rel="icon" type="image/png" href="https://zmp3-static.zadn.vn/skins/zmp3-v5.1/images/icon_zing_mp3_60.png" />
-    <meta name="apple-itunes-app" content="app-id=992357547, app-argument=https://itunes.apple.com/vn/app/zing-mp3-lite/id992357547"/>
-    <meta name="google-site-verification" content="DAIQ-lQ5duJuduznrAkF5pv4rEgSS8K93Kbb41WUd38"/>
-    <meta property="og:title" content="Nghe nhạc hay - Tải nhạc hot - Tìm nhạc vui - Chất lượng cao | Zing MP3" />                
-    <meta property="og:description" content="Dịch vụ nhạc số với hàng triệu bài hát và MV có bản quyền chất lượng cao, giúp bạn nghe nhạc, tải nhạc, upload và đồng bộ kho nhạc của tôi trên nhiều thiết bị." />        
-    <meta property="og:image" content="//zmp3-static.zadn.vn/skins/common/logo600.png" />
-    <meta property="og:image:url" content="//zmp3-static.zadn.vn/skins/common/logo600.png" />
-    <meta property="og:url" content="" />
-    <meta property="og:site_name" content="Zing MP3" />
-    <meta property="og:type" content="website" />
-    <meta name="al:android:url" property="al:android:url" content="" data-app/>
-    <meta name="al:android:package" property="al:android:package" content="com.zing.mp3" data-app/>
-    <meta name="al:android:app_name" property="al:android:app_name" content="Zing MP3" data-app/>
-    <meta name="al:iphone:url" property="al:iphone:url" content="zingmp3open://" data-app/>
-    <meta name="al:iphone:app_store_id" property="al:iphone:app_store_id" content="992357547" data-app/>
-    <meta name="al:iphone:app_name" property="al:iphone:app_name" content="Zing MP3" data-app/>
-    <meta name="al:ipad:url" property="al:ipad:url" content="zingmp3open://" data-app/>
-    <meta name="al:ipad:app_store_id" property="al:ipad:app_store_id" content="992357547" data-app/>
-    <meta name="al:ipad:app_name" property="al:ipad:app_name" content="Zing MP3" data-app/>
-    <meta http-equiv="Content-Type" content="text/html;charset=UTF-8"/>
-    <meta property="fb:app_id" content="1603079626622346"/>
-    <meta name="format-detection" content="telephone=no"/>
-    <meta name="geo.region" content="VN-SG"/>
-    <meta name="geo.placename" content="11"/>
-    <meta name="geo.position" content="10.763945;106.656201"/>
+    
     <meta name="ICBM" content="10.763945, 106.656201"/>
 
     <link rel="stylesheet" href="/css/style-8.3.6.5.min.css" media="all" type="text/css" />
