@@ -35,16 +35,11 @@
     <meta name="geo.position" content="10.763945;106.656201"/>
     <meta name="ICBM" content="10.763945, 106.656201"/>
 
-    <link rel="stylesheet" href="<?php echo Yii::$app->homeUrl.'web/css/onlinemusic_style-8.3.6.5.min.css'?>" media="all" type="text/css" />
-    <link rel="stylesheet" href="<?php echo Yii::$app->homeUrl.'web/css/onlinemusic_update-0.0.0.2.5.min.css'?>" media="all" type="text/css" />    
+    <link rel="stylesheet" href="<?php echo Yii::$app->homeUrl.'style-8.3.6.5.min.css'?>" media="all" type="text/css" />
+    <link rel="stylesheet" href="<?php echo Yii::$app->homeUrl.'update-0.0.0.2.5.min.css'?>" media="all" type="text/css" />    
 
-    <script type="text/javascript" src="<?php echo Yii::$app->homeUrl.'web/javascript/onlinemusic_jquery-2.1.0.min.js'?>"></script>
-    <script type="text/javascript" src="<?php echo Yii::$app->homeUrl.'web/javascript/onlinemusic_underscore-min.js'?>"></script>
-    <script type="text/javascript">
-        document.domain = "mp3.zing.vn";
-        var MP3 = {VIP:"", VIP_EXPIRE:"", ZALO_ID:"", ACCOUNT_ID:"", ACCOUNT_NAME:"", DISPLAY_NAME:"", GENRE_ID:0, BANNER_OFF:0, MP3_URL:"", XHR_URL:"//mp3.zing.vn/xhr", IMG_URL:"https://zmp3-photo.zadn.vn", STATIC_URL:"", SKIN_URL:"https://zmp3-static.zadn.vn/skins/zmp3-v5.1", INTER_URL:"", LOG_URL:"https://log.mp3.zing.vn/", LOG_INFO:"", IEVERSION:9, AD_OVA:"", MOD:0, API_VIP_URL:"//vip.api.mp3.zing.vn/", API_COMMENT_URL:"//comment.api.mp3.zing.vn", DATE:"", IP:"", IS_PC:1, OVA_DISABLE:0, MEDIAID:"", ZLIKE_KEY:"", ZLIKE_TOKEN:"", ITEM_NEXT_URL : '', ITEM_NEXT_TITLE:'', SUGGEST:[] , continueUrl:"https://mp3.zing.vn"};
-        !function (){var n, e = function(n){var e, i, t, r = document.cookie.split(";"); for (e = 0; e < r.length; e++)if (i = r[e].substr(0, r[e].indexOf("=")), t = r[e].substr(r[e].indexOf("=") + 1), (i = i.replace(/^\s+|\s+$/g, "")) == n)return unescape(t); return null}, i = "", t = /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent); i = location.pathname + location.search, n = "https://m.mp3.zing.vn", !t || null != e("IS_MOBILE") && 0 == parseInt(e("IS_MOBILE")) || (location.href = n + i)}();
-    </script>
+    <script type="text/javascript" src="<?php echo Yii::$app->homeUrl.'jquery-2.1.0.min.js'?>"></script>
+    <script type="text/javascript" src="<?php echo Yii::$app->homeUrl.'underscore-min.js'?>"></script>
 
 
 </head>
