@@ -35,11 +35,11 @@
     <meta name="geo.position" content="10.763945;106.656201"/>
     <meta name="ICBM" content="10.763945, 106.656201"/>
 
-    <link rel="stylesheet" href="<?php echo Yii::$app->homeUrl.'style-8.3.6.5.min.css'?>" media="all" type="text/css" />
-    <link rel="stylesheet" href="<?php echo Yii::$app->homeUrl.'update-0.0.0.2.5.min.css'?>" media="all" type="text/css" />    
+    <link rel="stylesheet" href="/css/style-8.3.6.5.min.css" media="all" type="text/css" />
+    <link rel="stylesheet" href="/css/update-0.0.0.2.5.min.css" media="all" type="text/css" />    
 
-    <script type="text/javascript" src="<?php echo Yii::$app->homeUrl.'jquery-2.1.0.min.js'?>"></script>
-    <script type="text/javascript" src="<?php echo Yii::$app->homeUrl.'underscore-min.js'?>"></script>
+    <script type="text/javascript" src="/js/jquery-2.1.0.min.js"></script>
+    <script type="text/javascript" src="/js/underscore-min.js"></script>
 
 
 </head>
